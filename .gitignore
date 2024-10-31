@@ -7,6 +7,8 @@ __pycache__/
 *.so
 input
 output
+input_test
+output_test
 
 # Distribution / packaging
 .Python
